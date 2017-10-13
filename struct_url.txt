@@ -1,0 +1,10 @@
+	
+	http://localhost
+
+	http://localhost/index.php => Homepage
+
+	http://localhost/index.php?view=technology	  => Technology (10)
+	
+	http://localhost/index.php?view=technology&page=2 => Technology (new)
+
+	http://localhost/index.php?view=detail&news=12345 => 
