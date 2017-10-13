@@ -1,13 +1,13 @@
 
-<div class="container-fluid">
-        <div class="row" style="margin:0px -15px">
-            <div class="col-md-12 bg-grey-900">
+<div class="container-fluid" style="padding:0">
+        <div class="row" style="margin:0px">
+            <div class="col-md-12 bg-grey-900" style="margin-top:20px">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
                             <div class="sm-footer">
                                 <div class="col-md-4">
-                                    <img src="assets/images/footer-logo.png">
+                                    <img src="../assets/images/footer-logo.png">
                                     <br />
                                     <h5 class="sm-footer-text">© រក្សា​សិទ្ធិ​គ្រប់​យ៉ាង​ដោយ​ Sabay ឆ្នាំ​២០១៦</h5>
                                     <p class="sm-footer-text-p"><b>អាសយដ្ឋាន</b>
@@ -16,11 +16,11 @@
                                 <div class="col-md-4">
                                     <h4 class="sm-footer-text-h">អំពីយើង</h4>
                                     <h5 class="sm-footer-text-p">Sabay Digital Corporation ជា​ក្រុមហ៊ុន​ព័ត៌មាន​ឌីជីថល និង​កម្សាន្ត​ឈាន​មុខ​គេ​នៅ​កម្ពុជា។ ព័ត៌មាន​បន្ថែម ផលិត​ផល​ និង​ សេវាកម្ម របស់ Sabay</h5>
-                                    <a href="#"><img class="box-sy" src="assets/images/s_3.png"></a>
-                                    <a href="#"><img class="box-sy" src="assets/images/s_1.jpg"></a>
-                                    <a href="#"><img class="box-sy" src="assets/images/s_2.png"></a>
-                                    <a href="#"><img class="box-sy" src="assets/images/s_4.png"></a>
-                                    <a href="#"><img class="box-sy" src="assets/images/s_5.png"></a>
+                                    <a href="#"><img class="box-sy" src="../assets/images/s_3.png"></a>
+                                    <a href="#"><img class="box-sy" src="../assets/images/s_1.jpg"></a>
+                                    <a href="#"><img class="box-sy" src="../assets/images/s_2.png"></a>
+                                    <a href="#"><img class="box-sy" src="../assets/images/s_4.png"></a>
+                                    <a href="#"><img class="box-sy" src="../assets/images/s_5.png"></a>
                                 </div>
                                 <div class="col-md-4">
                                     <h4 class="sm-footer-text-h">ជួបគ្នានៅបណ្តាញសង្គម</h4>

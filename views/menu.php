@@ -1,122 +1,4 @@
-<style type="text/css">
-        .box {
-            width: 100%;
-            box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
-        }
-        
-        figure {
-            max-height: 200px;
-            margin: 0;
-            padding: 0;
-            background: #fff;
-            overflow: hidden;
-        }
-        
-        figure img {
-            height: 120px;
-            -webkit-transform: scale(1);
-            transform: scale(1);
-            -webkit-transition: .2s ease-in-out;
-            transition: .2s ease-in-out;
-        }
-        
-        .box:hover img {
-            cursor: pointer;
-            -webkit-transform: scale(1.05);
-            transform: scale(1.05);
-            -webkit-transition: .2s ease-in-out;
-            transition: .2s ease-in-out;
-        }
-        
-        .box-profile {
-            position: relative;
-            width: 100%;
-            height: 200px;
-            background: #219fff;
-            overflow: hidden;
-        }
-        
-        .overlay {
-            position: relative;
-            width: 100%;
-            background: #e34;
-            bottom: 0;
-            height: 50px;
-            margin-bottom: 10px;
-        }
-        
-        .overlay>.social {
-            width: 25%;
-            height: 100%;
-            color: white;
-            float: left;
-        }
-        
-        .overlay>.social:hover {
-            opacity: 0.8;
-            font-size: 10pt;
-            cursor: pointer;
-        }
-        
-        .helper-name {
-            font-family: 'Koulen', 'Roboto';
-            position: absolute;
-            background: #219fff;
-            top: 10px;
-            left: 0;
-            z-index: 1;
-            color: white;
-            padding: 5px 15px;
-            border-radius: 0px 30px 30px 0px;
-            opacity: 0;
-        }
-        
-        .helper-group {
-            font-family: 'Koulen', 'Roboto';
-            position: absolute;
-            background: #219fff;
-            bottom: 10px;
-            right: 0;
-            z-index: 2;
-            color: white;
-            padding: 5px 15px;
-            border-radius: 30px 0px 0px 30px;
-            opacity: 0;
-        }
-        
-        .box:hover .helper-name,
-        .box:hover .helper-group {
-            transition: .3s ease-in;
-            opacity: 1;
-        }
-        
-        @media screen and (max-width:992px) {
-            .box {
-                box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
-                padding: 0px 150px;
-            }
-            .ai {
-                display: block;
-            }
-        }
-        
-        @media screen and (max-width:600px) {
-            .box {
-                padding: 0px 30px;
-            }
-        }
-        
-        @media screen and (max-width:400px) {
-            .box {
-                box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
-                padding: 0;
-            }
-        }
-        
-        .lg {
-            height: 120px;
-        }
-    </style>
+
 <nav id="navbar-fixed-top" class="navbar navbar-default">
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -147,9 +29,11 @@
                         <li id="txtLife">
                             <a href="#"></a>
                         </li>
+                        <!--
                         <li class="active" id="txtAbout">
                             <a href="#"><span class="sr-only">(current)</span></a>
                         </li>
+-->
                         <li id="txtContact">
                             <a href="#"></a>
                         </li>

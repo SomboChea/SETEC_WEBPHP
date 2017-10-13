@@ -1,3 +1,7 @@
+<?php
+include_once "header.php";
+include_once "menu.php";
+?>
 <style>
         .box-social-a {
             width: 100%;
@@ -78,3 +82,6 @@
             </div>
         </div>
     </div>
+    <?php 
+    include_once "footer.php";
+    ?>

@@ -4,7 +4,7 @@
             padding-left: 0;
             margin: 0;
         }
-    </style>
+</style>
 </head>
 
 <body>

@@ -7,6 +7,9 @@
 @import "block_cate.css";
 @import "colors.css";
 @import "align-items.css";
+@import "colors.css";
+@import "kh-font.css";
+
 .menu-bar>li>a {
     font-size: large;
     font-family: 'Koulen', 'Roboto';

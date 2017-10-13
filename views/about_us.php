@@ -130,7 +130,7 @@ include_once "menu.php";
             <div class="col-md-12">
                 <div class="row">
                     <div class="col-md-12 align centered">
-                        <img src="images/setec_logo.png" class="lg img-responsive">
+                        <img src="../assets/images/setec_logo.png" class="lg img-responsive">
                     </div>
                 </div>
                 <svg viewBox="0 0 960 300">
@@ -156,7 +156,7 @@ include_once "menu.php";
                         <div class="box">
 
                             <DIV class="box-profile" onclick="runthis(0)" data-toggle="modal" data-target="#about">
-                                <figure><img src="images/sb.jpg" class="img-responsive"></figure>
+                                <figure><img src="../assets/images/sb.jpg" class="img-responsive"></figure>
                                 <div class="helper-name">Name : Chea Sambo</div>
                                 <div class="helper-group">Group : SN1.2</div>
                             </DIV>
@@ -179,7 +179,7 @@ include_once "menu.php";
                     <div class="col-md-4">
                         <div class="box">
                             <DIV class="box-profile" onclick="runthis(2)" data-toggle="modal" data-target="#about">
-                                <figure><img src="images/sunlong.jpg" class="img-responsive"></figure>
+                                <figure><img src="../assets/images/sunlong.jpg" class="img-responsive"></figure>
                                 <div class="helper-name">Name : Oung Sunlong</div>
                                 <div class="helper-group">Group : SN1.2</div>
                             </DIV>
@@ -202,7 +202,7 @@ include_once "menu.php";
                     <div class="col-md-4">
                         <div class="box">
                             <DIV class="box-profile" onclick="runthis(1)" data-toggle="modal" data-target="#about">
-                                <figure><img src="images/lida.jpg" class="img-responsive"></figure>
+                                <figure><img src="../assets/images/lida.jpg" class="img-responsive"></figure>
                                 <div class="helper-name">Name : Eam Sellida</div>
                                 <div class="helper-group">Group : SN1.2</div>
                             </DIV>
