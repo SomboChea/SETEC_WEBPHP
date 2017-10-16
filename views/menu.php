@@ -1,4 +1,3 @@
-
 <nav id="navbar-fixed-top" class="navbar navbar-default">
         <div class="container-fluid">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -16,7 +15,7 @@
             <div class="container">
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav menu-bar">
-                        <li><a href="index.html"><i class="fa fa-home fa-lg" aria-hidden="true"></i></a></li>
+                        <li class="active"><a href="#"><i class="fa fa-home fa-lg" aria-hidden="true"></i><span class="sr-only">(current)</span></a></li>
                         <li id="txtTech">
                             <a href="#"></a>
                         </li>
@@ -27,13 +26,12 @@
                             <a href="#"></a>
                         </li>
                         <li id="txtLife">
+                            
                             <a href="#"></a>
                         </li>
-                        <!--
-                        <li class="active" id="txtAbout">
-                            <a href="#"><span class="sr-only">(current)</span></a>
+                        <li id="txtAbout">
+                            <a href="#"></a>
                         </li>
--->
                         <li id="txtContact">
                             <a href="#"></a>
                         </li>

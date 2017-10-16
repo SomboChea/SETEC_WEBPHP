@@ -1,149 +1,89 @@
-<style>
-        ul {
-            list-style: none outside none;
-            padding-left: 0;
-            margin: 0;
-        }
-</style>
-</head>
+ <!-- Contents -->
+ <div class="container">
 
-<body>
-
-
-    <div class="item">
-        <ul id="content-slider" class="content-slider">
-            <li>
-                <div class="sm-sl-box">
-                    <figure><img src="img/1.jpg" class="img-responsive"></figure>
-                    <div class="caption-box">
-                        <h1>This is a simple text to do this, This is a simple text to do this........</h1>
-                        <p class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> ថ្ងៃនេះ ម៉ោង 11:20</p>
-                        <p class="cate"><i class="fa fa-th" aria-hidden="true"></i> Technology</p>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <div class="sm-sl-box">
-                    <figure><img src="img/2.jpg" class="img-responsive"></figure>
-                    <div class="caption-box">
-                        <h1>This is a simple text to do this, This is a simple text to do this........</h1>
-                        <p class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> ថ្ងៃនេះ ម៉ោង 11:20</p>
-                        <p class="cate"><i class="fa fa-th" aria-hidden="true"></i> Technology</p>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <div class="sm-sl-box">
-                    <figure><img src="img/3.jpg" class="img-responsive"></figure>
-                    <div class="caption-box">
-                        <h1>This is a simple text to do this, This is a simple text to do this........</h1>
-                        <p class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> ថ្ងៃនេះ ម៉ោង 11:20</p>
-                        <p class="cate"><i class="fa fa-th" aria-hidden="true"></i> Technology</p>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <div class="sm-sl-box">
-                    <figure><img src="img/4.jpg" class="img-responsive"></figure>
-                    <div class="caption-box">
-                        <h1>This is a simple text to do this, This is a simple text to do this........</h1>
-                        <p class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> ថ្ងៃនេះ ម៉ោង 11:20</p>
-                        <p class="cate"><i class="fa fa-th" aria-hidden="true"></i> Technology</p>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <div class="sm-sl-box">
-                    <figure><img src="img/5.jpg" class="img-responsive"></figure>
-                    <div class="caption-box">
-                        <h1>This is a simple text to do this, This is a simple text to do this........</h1>
-                        <p class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> ថ្ងៃនេះ ម៉ោង 11:20</p>
-                        <p class="cate"><i class="fa fa-th" aria-hidden="true"></i> Technology</p>
-                    </div>
-                </div>
-            </li>
-            <li>
-                <div class="sm-sl-box">
-                    <figure><img src="img/6.jpg" class="img-responsive"></figure>
-                    <div class="caption-box">
-                        <h1>This is a simple text to do this, This is a simple text to do this........</h1>
-                        <p class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> ថ្ងៃនេះ ម៉ោង 11:20</p>
-                        <p class="cate"><i class="fa fa-th" aria-hidden="true"></i> Technology</p>
-                    </div>
-                </div>
-            </li>
-        </ul>
-    </div>
-
-
-
-    <div class="container-fluid">
+        <!-- Featured Slider-->
         <div class="row">
-            <div class="col-md-12">
-                <div class="fixed-bottom" id="marquee">
-                    <p class="marquee">Hello World</p>
-
-                </div>
-
-                <div class="btnAction align centered" onclick="breakingBtn()">
-                    <i class="fa fa-newspaper-o" aria-hidden="true"></i>
+            <div class="col-md-12 sm-full-width">
+                <div class="row">
+                    <div class="item">
+                        <ul id="content-slider" class="content-slider" style="list-style: none outside none;margin:0px;padding:0">
+                            <li>
+                                <a href="topics/technology/tech-011.html">
+                                    <div class="sm-sl-box">
+                                        <figure><img src="topics/technology/img/satya-nadella-lanvin-suede-and-patent-leather-low-top-sneaker_large.jpg" class="img-responsive"></figure>
+                                        <div class="caption-box">
+                                            <h1>ដឹង CEO ក្រុមហ៊ុន​បច្ចេកវិទ្យាលំដាប់កំពូលៗ ពាក់​ស្បែកជើង​តម្លៃ​ប៉ុន្មាន​អត់?</h1>
+                                            <p class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> ថ្ងៃនេះ ម៉ោង 11:20</p>
+                                            <p class="cate"><i class="fa fa-th" aria-hidden="true"></i> បច្ចេកវិទ្យា</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="topics/life/life-001.html">
+                                    <div class="sm-sl-box">
+                                        <figure><img src="topics/life/img/9.jpg" class="img-responsive"></figure>
+                                        <div class="caption-box">
+                                            <h1>ករណីម្ចាស់ភោជនីយដ្ឋានពោធិចិនតុង ក្លាយជារឿងដាស់តឿនចរិតមនុស្ស...​</h1>
+                                            <p class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> ថ្ងៃនេះ ម៉ោង 11:20</p>
+                                            <p class="cate"><i class="fa fa-th" aria-hidden="true"></i> ជីវិតនិងសង្គម</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="topics/entertaintment/enter-001.html">
+                                    <div class="sm-sl-box">
+                                        <figure><img src="topics/entertaintment/img/1.png" class="img-responsive"></figure>
+                                        <div class="caption-box">
+                                            <h1>មក​ស្គាល់​អង្គ​រក្ស​របស់​ប្រធានាធិបតី​របស់​កូរ៉េ​ថ្មី​​សង្ហា​មិន​ចាញ់​​តារា​សម្ដែង​...</h1>
+                                            <p class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> ថ្ងៃនេះ ម៉ោង 11:20</p>
+                                            <p class="cate"><i class="fa fa-th" aria-hidden="true"></i> កម្សាន្ត</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="topics/technology/tech-006.html">
+                                    <div class="sm-sl-box">
+                                        <figure><img src="topics/technology/img/mysamsung4.png" class="img-responsive"></figure>
+                                        <div class="caption-box">
+                                            <h1>កម្មវិធី mySamsung ដែលជួយ​អ្នក​ប្រើ​ទូរស័ព្ទ Samsung បាន​ច្រើន...</h1>
+                                            <p class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> ថ្ងៃនេះ ម៉ោង 11:20</p>
+                                            <p class="cate"><i class="fa fa-th" aria-hidden="true"></i> បច្ចេកវិទ្យា</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="topics/entertaintment/enter-002.html">
+                                    <div class="sm-sl-box">
+                                        <figure><img src="topics/entertaintment/img/2.jpg" class="img-responsive"></figure>
+                                        <div class="caption-box">
+                                            <h1>ក្រ ឬមាន​ក៏​ដោយ​សារ​លុយ! ចេញ​ហើយ​ MVបទ​ "លុយ" ដោយ អូន...</h1>
+                                            <p class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> ថ្ងៃនេះ ម៉ោង 11:20</p>
+                                            <p class="cate"><i class="fa fa-th" aria-hidden="true"></i> កម្សាន្ត</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="topics/technology/tech-002.html">
+                                    <div class="sm-sl-box">
+                                        <figure><img src="img/6.jpg" class="img-responsive"></figure>
+                                        <div class="caption-box">
+                                            <h1>ឧបករណ៍ Gear 360 ជំនាន់​​ទី​១​​ចេញ​ហើយ​តម្លៃក្រោម ១៧០ ដុល្លា...</h1>
+                                            <p class="date"><i class="fa fa-clock-o" aria-hidden="true"></i> ថ្ងៃនេះ ម៉ោង 11:20</p>
+                                            <p class="cate"><i class="fa fa-th" aria-hidden="true"></i> បច្ចេកវិទ្យា</p>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 
 
-
-
-
-    <script src="js/jquery.min.js"></script>
-    <script src="js/lightslider.js"></script>
-    <script src="js/main.js"></script>
-
-    <script src="js/jquery.marquee.min.js" type="text/javascript"></script>
-    <script>
-        $(document).ready(function() {
-
-            $('.marquee').marquee({
-                //speed in milliseconds of the marquee
-                duration: 3500,
-                //gap in pixels between the tickers
-                gap: 50,
-                //time in milliseconds before the marquee will start animating
-                delayBeforeStart: 0,
-                //'left' or 'right'
-                direction: 'left',
-                //true or false - should the marquee be duplicated to show an effect of continues flow
-                duplicated: true,
-                pauseOnHover: true
-            });
-
-            $('#content-slider').lightSlider({
-                item: 4,
-                loop: false,
-                slideMove: 2,
-                easing: 'cubic-bezier(0.25, 0, 0.25, 1)',
-                speed: 600,
-                responsive: [{
-                    breakpoint: 1200,
-                    settings: {
-                        item: 3,
-                        slideMove: 1,
-                        slideMargin: 6,
-                    }
-                }, {
-                    breakpoint: 850,
-                    settings: {
-                        item: 2,
-                        slideMove: 1
-                    }
-                }, {
-                    breakpoint: 600,
-                    settings: {
-                        item: 1,
-                        slideMove: 1
-                    }
-                }]
-            });
-        });
-    </script>
+        <!-- End Featured -->
