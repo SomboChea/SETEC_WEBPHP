@@ -232,7 +232,7 @@
                     <div class="col-md-4">
                         <div class="box">
                             <DIV class="box-profile" onclick="runthis(3)" data-toggle="modal" data-target="#about">
-                                <figure><img src="images/tharoth.jpg" class="img-responsive"></figure>
+                                <figure><img src="assets/images/tharoth.jpg" class="img-responsive"></figure>
                                 <div class="helper-name">Name : Meas Sovanntharoth</div>
                                 <div class="helper-group">Group : SN1.2</div>
                             </DIV>
@@ -255,7 +255,7 @@
                     <div class="col-md-4">
                         <div class="box">
                             <DIV class="box-profile" onclick="runthis(4)" data-toggle="modal" data-target="#about">
-                                <figure><img src="images/visal.jpg" class="img-responsive"></figure>
+                                <figure><img src="assets/images/visal.jpg" class="img-responsive"></figure>
                                 <div class="helper-name">Name : Sorn Visal</div>
                                 <div class="helper-group">Group : SN1.2</div>
                             </DIV>
