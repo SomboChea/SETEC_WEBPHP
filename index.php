@@ -13,7 +13,9 @@
     include_once "./views/header.php";
     //menu
     include_once "./views/menu.php";
-
+    //slideshow
+    //home
+    include_once "./views/home.php";
 
     //START BODY
 

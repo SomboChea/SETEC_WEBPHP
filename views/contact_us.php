@@ -17,7 +17,7 @@ include_once "menu.php";
             transition: .2s ease-in-out;
         }
         
-        @media screen and (max-width:992px) {
+        @media screen and all (max-width:992px) {
             .box-social-a {
                 margin-bottom: 10px;
             }
