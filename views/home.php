@@ -1,4 +1,5 @@
-
+<!-- Contents -->
+<div class="container">
         <!-- End Featured -->
         <!-- Featured Videos -->
         <div class="row">

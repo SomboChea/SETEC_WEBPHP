@@ -26,7 +26,7 @@
         
     }
 
-   
+    include_once "./views/slidebar.php";
 
     
     //END BODY
