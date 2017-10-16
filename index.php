@@ -20,7 +20,8 @@
     if(!isset($error_msg)) {
         include_once "views/".$view.".php";
     } else {
-        echo $error_msg;
+        //echo $error_msg;
+        
     }
 
    
