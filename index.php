@@ -17,6 +17,8 @@
     include_once "./views/slidepagehome.php";
     //home
     include_once "./views/home1.php";
+
+    include_once "./views/categoryhome.php";
     
     //START BODY
     ?>
