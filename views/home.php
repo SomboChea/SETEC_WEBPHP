@@ -1,15 +1,8 @@
-<<<<<<< HEAD
 
 <?php
 include_once "header2.php";
 include_once "menu.php";
 ?>
-<!-- CONTENT -->
-<br />
-    </br /><br />
-    
-=======
->>>>>>> 90ee570a02b8a62dd3ae8362b8f98b0d5c45349b
 
 <!-- CONTENT -->
 <div class="row" style="margin:0;padding:0">
@@ -132,20 +125,15 @@ include_once "menu.php";
                 </div>
             </div>
         </div>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+
         <!-- End Featured Videos -->
         <?php
         include_once "footer.php";
         ?>
-=======
+
         <!-- End Featured Technology -->
     </div>
 </div>    
->>>>>>> 90ee570a02b8a62dd3ae8362b8f98b0d5c45349b
-=======
-    </div>
-    <!-- End Featured Technology -->
-</div>
->>>>>>> 781b40871bcd0f92ccf968b893b46c7986c87ed9
+
 
