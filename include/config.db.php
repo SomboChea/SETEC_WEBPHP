@@ -23,4 +23,10 @@ function getTable($table) {
     return $dbh->query("SELECT * FROM $table;")->fetchAll();
 }
 
+function getPostsByCate($category) {
+    global $dbh;
+    $sql = "CALL viewPostByCate('$category');";
+    return $dbh->query($sql)->fetchAll();
+}
+
 ?>

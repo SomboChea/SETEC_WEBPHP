@@ -1,5 +1,7 @@
-<?php
 
+<?php
+    require_once("./include/config.db.php");
+    
     $view = null;
     $error_msg = null;
 
@@ -13,36 +15,34 @@
     include_once "./views/header.php";
     //menu
     include_once "./views/menu.php";
+    
+
+    
+//START BODY
+?>
+<!-- Contents -->
+<div class="container">
+
+<?php
+
     //slideshow
     include_once "./views/slidepagehome.php";
-    //home
-    include_once "./views/home1.php";
 
-    include_once "./views/categoryhome.php";
-    
-    //START BODY
-    ?>
-    <!-- Contents -->
-    <div class="container">
-
-    <?php
     if(!isset($error_msg)) {
         include_once "views/".$view.".php";
     } else {
         //echo $error_msg;
-        include_once "./views/home1.php";
+        include_once "./views/home.php";
     }
 
-    
-    //END BODY
+//END BODY
 
-    ?>
+?>
     <!-- Contents -->
-    </div>
+</div>
     
-    <?php
-
+<?php
     //footer
     include_once "./views/footer.php";
-
+    
 ?>

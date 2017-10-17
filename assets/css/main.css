@@ -8,7 +8,7 @@
 @import "colors.css";
 @import "align-items.css";
 @import "colors.css";
-@import "kh-font.css";
+@import "kh-fonts.css";
 
 .menu-bar>li>a {
     font-size: large;
