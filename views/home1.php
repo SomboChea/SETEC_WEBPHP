@@ -11,7 +11,7 @@
 
                             <div class="row">
                             <?php
-
+                            
                             ?>
                                 <div class="col-md-4">
                                     <a href="topics/technology/tech-007.html">
@@ -23,8 +23,11 @@
                                 </div>
                                
                             <?php
-                            
+
                             ?>    
+
+                            <?php
+                            ?>
                             </div>
                             <div class="space-top"></div>
                             <div class="row">
@@ -38,7 +41,8 @@
                                 </div>
                                
 
-
+                           <?php
+                            ?>
 
                             </div>
 
