@@ -19,7 +19,11 @@
     
 
     //START BODY
+    ?>
+    <!-- Contents -->
+    <div class="container">
 
+    <?php
     if(!isset($error_msg)) {
         include_once "views/".$view.".php";
     } else {
@@ -30,6 +34,11 @@
     
     //END BODY
 
+    ?>
+    <!-- Contents -->
+    </div>
+    
+    <?php
 
     //footer
     include_once "./views/footer.php";
