@@ -34,7 +34,7 @@
 
                         <p>វីដេអូ​បង្ហាញ​ពី​ ​iPhone 7 Plus​ ​មួយ​គ្រឿង​ផ្ទុះ​ប៉ោង​ថ្ម​ ​និង​កំពុង​បង្ហុយ​ផ្សែង​ ​ដែល​ករណី​បាន​កើត​ក្នុង​រដ្ឋ​អារីហ្សូណា​ ​សហរដ្ឋអាមេរិក​នេះ ​ត្រូវ​ចែក​ចាយ​ប្រមាណ​ ​២៥ ០០០​ ​ដង​ក្នុង​បណ្ដាញ​សង្គម​ ​Twitter​ ​និង​ពាស​ពេញ​បណ្ដាញ​អ៊ីនធឺណិត។
                         </p>
-                        <img src="img/77.jpg" class="img-responsive">
+                        <img src="asstes/img/77.jpg" class="img-responsive">
                         <p>Brianna Olivas ឬ Bree​ ​នៅ​លើ​ ​Twitter​ ​ដែល​ជា​ម្ចាស់​វីដេអូ​ ​និង​ ​iPhone 7 Plus​ ​ខាង​លើ​បង្ហាញ​ថា​ ​iPhone​ ​របស់​គាត់​ស្រាប់​តែ​ផ្ទុះ​ឆេះ​ ​ខណៈ​មិន​បាន​ប្រើប្រាស់​ ​ឬ​សាក​ថ្ម​អ្វី​ទាំង​អស់។ ទន្ទឹម​នឹង​នេះ​ ​Apple​ ​ក៏​ចេញ​មុខ​បើក​ការ​ស្រាវជ្រាវ​ដើម្បី​ច្បាស់​ពី​មូលហេតុ​ដែល​ធ្វើ​ឲ្យ​កំពូល​ស្មាតហ្វូន​របស់​ខ្លួន​មាន​បញ្ហា​ដូច​នេះ។</p>
 
 
@@ -43,14 +43,14 @@
                         <p>ដោយ​ឡែក​ការ​ផ្ទុះ​នេះ​ មិន​មែន​ជា​ករណី​ទី​មួយ​សម្រាប់​ ​iPhone 7/ 7Plus​ ​នោះ​ទេ​ ​ពោល​គឺ​ច្រើន​ករណី​មក​ហើយ​ជាពិសេស​ក្នុង​ប្រទេស​ចិន៕</p>
 
 
-                        <img src="img/iphone7_explod.jpg" class="img-responsive">
+                        <img src="asstes/img/iphone7_explod.jpg" class="img-responsive">
 
                         <br />
                         <div class="source">
                             <p><b>ប្រភព៖</b> <a href="http://www.gsmarena.com/iphone_7_plus_catches_on_fire_apple_is_investigating_the_incident-blog-23607.php" target="_blank">GSMarena</a> <b>ប្រែ​សម្រួល៖</b> រដ្ឋ</p>
                         </div>
 
-                        <img src="img/banner_heineken.jpg" class="img-responsive">
+                        <img src="asstes/img/banner_heineken.jpg" class="img-responsive">
                     </div>
 
 
@@ -67,7 +67,7 @@
                                         <div class="big-thumb">
                                             <a href="#">
                                                 <div class="view-thumb">
-                                                    <figure><img src="img/mark-zuckerberg-nike-flyknit-lunar-3-in-wolf-grey_large.jpg" /></figure>
+                                                    <figure><img src="assets/img/mark-zuckerberg-nike-flyknit-lunar-3-in-wolf-grey_large.jpg" /></figure>
                                                 </div>
                                                 <div class="view-thumb-text">
                                                     <p>ពាក់​ស្បែកជើងម៉ាក Lanvin Classic Leather & Suede High-Top.....</p>
@@ -76,7 +76,7 @@
                                             <br />
                                             <a href="#">
                                                 <div class="view-thumb">
-                                                    <figure><img src="img/kevin-systrom-lanvin-classic-leather-and-suede-high-top-sneakers_large.jpg" /></figure>
+                                                    <figure><img src="asstes/img/kevin-systrom-lanvin-classic-leather-and-suede-high-top-sneakers_large.jpg" /></figure>
                                                 </div>
                                                 <div class="view-thumb-text">
                                                     <p>លោក Evan Spiegel នាយក​ប្រតិបត្តិ​ក្រុមហ៊ុន Snapchat</p>
@@ -88,7 +88,7 @@
                                         <div class="big-thumb">
                                             <a href="#">
                                                 <div class="view-thumb">
-                                                    <figure><img src="img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" /></figure>
+                                                    <figure><img src="asstes/img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" /></figure>
                                                 </div>
                                                 <div class="view-thumb-text">
                                                     <p>Mark Zuckerberg នាយក​ប្រតិបត្តិ​ក្រុមហ៊ុន Facebook</p>
@@ -97,7 +97,7 @@
                                             <br />
                                             <a href="#">
                                                 <div class="view-thumb">
-                                                    <figure><img src="img/jack-dorsey-and-susan-wojcicki-rick-owens-island-dunks-and-new-balance-w890v4_large.jpg" /></figure>
+                                                    <figure><img src="asstes/img/jack-dorsey-and-susan-wojcicki-rick-owens-island-dunks-and-new-balance-w890v4_large.jpg" /></figure>
                                                 </div>
                                                 <div class="view-thumb-text">
                                                     <p>Mark Zuckerberg នាយក​ប្រតិបត្តិ​ក្រុមហ៊ុន Facebook</p>
@@ -109,7 +109,7 @@
                                         <div class="big-thumb">
                                             <a href="#">
                                                 <div class="view-thumb">
-                                                    <figure><img src="img/larry-page-lanvin-low-top-sneaker-with-contrast-heel_large.jpg" /></figure>
+                                                    <figure><img src="asstes/img/larry-page-lanvin-low-top-sneaker-with-contrast-heel_large.jpg" /></figure>
                                                 </div>
                                                 <div class="view-thumb-text">
                                                     <p>Mark Zuckerberg នាយក​ប្រតិបត្តិ​ក្រុមហ៊ុន Facebook</p>
@@ -118,7 +118,7 @@
                                             <br />
                                             <a href="#">
                                                 <div class="view-thumb">
-                                                    <figure><img src="img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" /></figure>
+                                                    <figure><img src="asstes/img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" /></figure>
                                                 </div>
                                                 <div class="view-thumb-text">
                                                     <p>Mark Zuckerberg នាយក​ប្រតិបត្តិ​ក្រុមហ៊ុន Facebook</p>
@@ -130,7 +130,7 @@
                                         <div class="big-thumb">
                                             <a href="#">
                                                 <div class="view-thumb">
-                                                    <figure><img src="img/larry-page-lanvin-low-top-sneaker-with-contrast-heel_large.jpg" /></figure>
+                                                    <figure><img src="asstes/img/larry-page-lanvin-low-top-sneaker-with-contrast-heel_large.jpg" /></figure>
                                                 </div>
                                                 <div class="view-thumb-text">
                                                     <p>ពាក់​ស្បែកជើងម៉ាក Lanvin Classic Leather & Suede.....</p>
@@ -139,7 +139,7 @@
                                             <br />
                                             <a href="#">
                                                 <div class="view-thumb">
-                                                    <figure><img src="img/sundar-pichai-lanvin-mens-cap-toe-leather-low-top-sneaker.jpg" /></figure>
+                                                    <figure><img src="asstes/img/sundar-pichai-lanvin-mens-cap-toe-leather-low-top-sneaker.jpg" /></figure>
                                                 </div>
                                                 <div class="view-thumb-text">
                                                     <p>លោក Evan Spiegel នាយក​ប្រតិបត្តិ​ក្រុមហ៊ុន Snapchat</p>
@@ -151,7 +151,7 @@
                                         <div class="big-thumb">
                                             <a href="#">
                                                 <div class="view-thumb">
-                                                    <figure><img src="img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" /></figure>
+                                                    <figure><img src="assets/img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" /></figure>
                                                 </div>
                                                 <div class="view-thumb-text">
                                                     <p>លោក Evan Spiegel នាយក​ប្រតិបត្តិ​ក្រុមហ៊ុន Snapchat</p>
@@ -160,7 +160,7 @@
                                             <br />
                                             <a href="#">
                                                 <div class="view-thumb">
-                                                    <figure><img src="img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" /></figure>
+                                                    <figure><img src="asstes/img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" /></figure>
                                                 </div>
                                                 <div class="view-thumb-text">
                                                     <p>ពាក់​ស្បែកជើងម៉ាក Lanvin Classic Leather & Suede.....</p>
@@ -172,7 +172,7 @@
                                         <div class="big-thumb">
                                             <a href="#">
                                                 <div class="view-thumb">
-                                                    <figure><img src="img/sundar-pichai-lanvin-mens-cap-toe-leather-low-top-sneaker.jpg" /></figure>
+                                                    <figure><img src="asstes/img/sundar-pichai-lanvin-mens-cap-toe-leather-low-top-sneaker.jpg" /></figure>
                                                 </div>
                                                 <div class="view-thumb-text">
                                                     <p>លោក Evan Spiegel នាយក​ប្រតិបត្តិ​ក្រុមហ៊ុន Snapchat</p>
@@ -181,7 +181,7 @@
                                             <br />
                                             <a href="#">
                                                 <div class="view-thumb">
-                                                    <figure><img src="img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" /></figure>
+                                                    <figure><img src="assets/img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" /></figure>
                                                 </div>
                                                 <div class="view-thumb-text">
                                                     <p>ពាក់​ស្បែកជើងម៉ាក Lanvin Classic Leather & Suede.....</p>
@@ -204,7 +204,7 @@
                 <div class="sidebar">
 
                     <div class="ads">
-                        <div class="ads"><img src="img/Galaxy s8.jpg"> </div>
+                        <div class="ads"><img src="assest/img/Galaxy s8.jpg"> </div>
                     </div>
                     <br />
 
@@ -220,7 +220,7 @@
                             <a href="#" class="link-small-thumb">
                                 <div class="recent-post-thumb">
                                     <div class="small-thumb">
-                                        <img src="img/kevin-systrom-lanvin-classic-leather-and-suede-high-top-sneakers_large.jpg" />
+                                        <img src="assets/img/kevin-systrom-lanvin-classic-leather-and-suede-high-top-sneakers_large.jpg" />
                                         <p>ដឹង CEO ក្រុមហ៊ុន​បច្ចេកវិទ្យាលំដាប់កំពូលៗ ពាក់​ស្បែកជើង​តម្លៃ​ប៉ុន្មាន​អត់?</p>
                                     </div>
                                 </div>
@@ -229,7 +229,7 @@
                             <a href="#" class="link-small-thumb">
                                 <div class="recent-post-thumb">
                                     <div class="small-thumb">
-                                        <img src="img/larry-page-lanvin-low-top-sneaker-with-contrast-heel_large.jpg" />
+                                        <img src="assets/img/larry-page-lanvin-low-top-sneaker-with-contrast-heel_large.jpg" />
                                         <p>លោក Larry Page នាយក​ប្រតិបត្តិ​ក្រុមហ៊ុន Alphabet ពាក់​ស្បែកជើង​តម្លៃ​ប៉ុន្មាន​អត់?</p>
                                     </div>
                                 </div>
@@ -238,7 +238,7 @@
                             <a href="#" class="link-small-thumb">
                                 <div class="recent-post-thumb">
                                     <div class="small-thumb">
-                                        <img src="img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" />
+                                        <img src="assets/img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" />
                                         <p>ពាក់​ស្បែកជើងម៉ាក Nanvin Men's ​Cap-Toe Leather Low-Top Sneaker.....</p>
                                     </div>
                                 </div>
@@ -247,7 +247,7 @@
                             <a href="#" class="link-small-thumb">
                                 <div class="recent-post-thumb">
                                     <div class="small-thumb">
-                                        <img src="img/kevin-systrom-lanvin-classic-leather-and-suede-high-top-sneakers_large.jpg" />
+                                        <img src="assets/img/kevin-systrom-lanvin-classic-leather-and-suede-high-top-sneakers_large.jpg" />
                                         <p>លោក Sundar Pichai នាយក​ប្រតិបត្តិ​ក្រុមហ៊ុន Google ពាក់​ស្បែកជើង​តម្លៃ​ប៉ុន្មាន​អត់?</p>
                                     </div>
                                 </div>
@@ -256,7 +256,7 @@
                             <a href="#" class="link-small-thumb">
                                 <div class="recent-post-thumb">
                                     <div class="small-thumb">
-                                        <img src="img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" />
+                                        <img src="assets/img/heres-cook-in-another-pair-of-nike-shoes_large.jpg" />
                                         <p>លោក Satya Nadella នាយក​ប្រតិបត្តិ​ក្រុមហ៊ុន Microsoft ពាក់​ស្បែកជើង​តម្លៃ​ប៉ុន្មាន​អត់?</p>
                                     </div>
                                 </div>
@@ -265,7 +265,7 @@
                             <a href="#" class="link-small-thumb">
                                 <div class="recent-post-thumb">
                                     <div class="small-thumb">
-                                        <img src="img/kevin-systrom-lanvin-classic-leather-and-suede-high-top-sneakers_large.jpg" />
+                                        <img src="assets/img/kevin-systrom-lanvin-classic-leather-and-suede-high-top-sneakers_large.jpg" />
                                         <p>Mark Zuckerberg នាយក​ប្រតិបត្តិ​ក្រុមហ៊ុន Facebook ពាក់​ស្បែកជើង​តម្លៃ​ប៉ុន្មាន​អត់?</p>
                                     </div>
                                 </div>

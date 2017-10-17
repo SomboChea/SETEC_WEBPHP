@@ -14,8 +14,10 @@
     //menu
     include_once "./views/menu.php";
     //slideshow
-    include_once "./views/slideshow.php";
+    include_once "./views/slidepagehome.php";
     //home
+    include_once "./views/home1.php";
+    include_once "./views/home2.php";
   
     //START BODY
     ?>

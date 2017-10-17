@@ -29,21 +29,6 @@ require_once("include/assets.php");
 
 <body>
 
-<<<<<<< HEAD
-    <div class="container-fluid" style="padding:0">
-        <div class="row" style="margin:0px">
-            <div class="col-md-12 box-h-200 col-xs-12 bg-black">
-                <div class="row">
-                    <div class="col-md-4 col-xs-12 align centered">
-                        <div class="box-logo">
-                            <img src="../assets/images/logo.png" alt="" class="img-responsive">
-                        </div>
-                    </div>
-                    <div class="col-md-8 hidden-xs">
-                        <div class="box-ads align centered">
-                            <img src="../assets/images/ads_1.jpg" alt="" class="img-responsive">
-                        </div>
-=======
 <div class="container-fluid" style="padding:0">
     <div class="row" style="margin:0px">
         <div class="col-md-12 box-h-200 col-xs-12 bg-black">
@@ -56,7 +41,6 @@ require_once("include/assets.php");
                 <div class="col-md-8 hidden-xs">
                     <div class="box-ads align centered">
                         <img src="assets/images/ads_1.jpg" alt="" class="img-responsive">
->>>>>>> 781b40871bcd0f92ccf968b893b46c7986c87ed9
                     </div>
                 </div>
             </div>
