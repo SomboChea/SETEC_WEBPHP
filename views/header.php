@@ -1,3 +1,6 @@
+<?php
+require_once("include/assets.php");
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -5,19 +8,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Home</title>
-    <link href="assets/css/align-items.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/block_cate.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/colors.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/custom.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/kh-fonts.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/lightslider.min.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/lighttext.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/main.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/menu-fixed.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/style_.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
+    <link href="<?php getCSS('align-items'); ?>" rel="stylesheet" type="text/css">
+    <link href="<?php getCSS('block_cate'); ?>" rel="stylesheet" type="text/css">
+    <link href="<?php getCSS('bootstrap.min'); ?>" rel="stylesheet" type="text/css">
+    <link href="<?php getCSS('colors'); ?>" rel="stylesheet" type="text/css">
+    <link href="<?php getCSS('custom'); ?>" rel="stylesheet" type="text/css">
+    <link href="<?php getCSS('font-awesome.min'); ?>" rel="stylesheet" type="text/css">
+    <link href="<?php getCSS('kh-fonts'); ?>" rel="stylesheet" type="text/css">
+    <link href="<?php getCSS('lightslider.min'); ?>" rel="stylesheet" type="text/css">
+    <link href="<?php getCSS('lighttext'); ?>" rel="stylesheet" type="text/css">
+    <link href="<?php getCSS('main'); ?>" rel="stylesheet" type="text/css">
+    <link href="<?php getCSS('menu-fixed'); ?>" rel="stylesheet" type="text/css">
+    <link href="<?php getCSS('style_'); ?>" rel="stylesheet" type="text/css">
+    <link href="<?php getCSS('style'); ?>" rel="stylesheet" type="text/css">
     
     <!-- <link rel="stylsesheet" type="text/css" href="assets/css/main.css" >
     <link type="text/css" rel="stylesheet" href="assets/css/lightslider.css" >

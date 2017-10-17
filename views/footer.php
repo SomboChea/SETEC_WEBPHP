@@ -1,57 +1,17 @@
  <!-- FOOTER -->
- <br />
-    </br /><br />
+ <br /></br /><br />
 
 
     <?php
     include_once "contantmodel.php";
     ?>
 
-    <div class="modal fade" tabindex="-1" role="dialog" id="modalRegister">
-        <div class="modal-dialog" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title">Register</h4>
-                </div>
-                <form class="form-horizontal frm">
-                    <div class="form-group">
-                        <label for="inputEmail3" class="col-sm-2 control-label">Email</label>
-                        <div class="col-sm-10">
-                            <input type="email" class="form-control" id="inputEmail3" placeholder="Email">
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <label for="inputPassword3" class="col-sm-2 control-label">Password</label>
-                        <div class="col-sm-10">
-                            <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
-                        </div>
-                    </div>
-                    <div class="form-group">
-                        <label for="inputPassword3" class="col-sm-2 control-label">Confirm Password</label>
-                        <div class="col-sm-10">
-                            <input type="password" class="form-control" id="inputPassword3" placeholder="Password">
-                        </div>
-                    </div>
+    <div class="container-fluid" style="padding:0">
 
-                    <div class="form-group">
-                        <div class="col-sm-offset-2 col-sm-10">
-                            <button type="submit" class="btn btn-default">Register</button>
-                        </div>
-                    </div>
-                </form>
-            </div>
-            <!-- /.modal-content -->
-        </div>
-        <!-- /.modal-dialog -->
-    </div>
-    <!-- /.modal -->
-
-
-    <div class="container-fluid">
-        <div class="row" style="margin:0px -15px">
+    </style>
+        <div class="row" style="margin:0px">
             <div class="col-md-12 bg-grey-900">
-                <div class="container">
+                <div class="container" >
                     <div class="row">
                         <div class="col-md-12">
                             <div class="sm-footer">
@@ -89,14 +49,74 @@
         </div>
     </div>
     </div>
+    </div>
     <!-- END FOOTER -->
 
 
 
-    <script type="text/javascript" src="js/jquery.min.js"></script>
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="js/main.js"></script>
-    <script type="text/javascript" src="js/lang.js"></script>
+    <script type="text/javascript" src="<?php getJS('jquery.min'); ?>"></script>
+    <script type="text/javascript" src="<?php getJS('bootstrap.min'); ?>"></script>
+    <script type="text/javascript" src="<?php getJS('main'); ?>"></script>
+    <script type="text/javascript" src="<?php getJS('lang'); ?>"></script>
+    <script type="text/javascript" src="<?php getJS('lightslider'); ?>"></script>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+
+            $('.marquee').marquee({
+                //speed in milliseconds of the marquee
+                duration: 19000,
+                //gap in pixels between the tickers
+                gap: 50,
+                //time in milliseconds before the marquee will start animating
+                delayBeforeStart: 0,
+                //'left' or 'right'
+                direction: 'left',
+                //true or false - should the marquee be duplicated to show an effect of continues flow
+                duplicated: true,
+            });
+
+            $('#content-slider').lightSlider({
+                item: 4,
+                loop: false,
+                slideMove: 2,
+                easing: 'cubic-bezier(0.25, 0, 0.25, 1)',
+                speed: 600,
+                responsive: [{
+                    breakpoint: 1200,
+                    settings: {
+                        item: 3,
+                        slideMove: 1,
+                        slideMargin: 6,
+                    }
+                }, {
+                    breakpoint: 850,
+                    settings: {
+                        item: 2,
+                        slideMove: 1
+                    }
+                }, {
+                    breakpoint: 600,
+                    settings: {
+                        item: 1,
+                        slideMove: 1
+                    }
+                }]
+            });
+
+        });
+
+        $('#sm-box').hover(
+            function() {
+                $(this).find('.sm-slide-box-text').addClass("sm-slide-box-text-hover");
+            },
+            function() {
+                $(this).find('.sm-slide-box-text').removeClass("sm-slide-box-text-hover");
+            }
+        )
+    </script>
+
 
 </body>
 

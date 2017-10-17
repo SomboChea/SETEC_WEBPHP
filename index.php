@@ -14,18 +14,17 @@
     //menu
     include_once "./views/menu.php";
     //slideshow
+    include_once "./views/slideshow.php";
     //home
-    include_once "./views/home.php";
-
+  
     //START BODY
 
     if(!isset($error_msg)) {
         include_once "views/".$view.".php";
     } else {
-        echo $error_msg;
+        //echo $error_msg;
+        include_once "./views/home.php";
     }
-
-   
 
     
     //END BODY

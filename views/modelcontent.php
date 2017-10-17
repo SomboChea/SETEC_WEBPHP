@@ -1,4 +1,8 @@
-<div class="modal fade" tabindex="-1" role="dialog" id="modalSignin">
+<br />
+    </br /><br />
+
+        <!--model content-->
+    <div class="modal fade" tabindex="-1" role="dialog" id="modalSignin">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
@@ -41,8 +45,6 @@
     </div>
     <!-- /.modal -->
 
-
-
     <div class="modal fade" tabindex="-1" role="dialog" id="modalRegister">
         <div class="modal-dialog" role="document">
             <div class="modal-content">
@@ -82,3 +84,4 @@
         <!-- /.modal-dialog -->
     </div>
     <!-- /.modal -->
+     <!-- end model content-->
