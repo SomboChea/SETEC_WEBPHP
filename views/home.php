@@ -1,3 +1,8 @@
+
+<?php
+include_once "header2.php";
+include_once "menu.php";
+?>
 <!-- CONTENT -->
 <br />
     </br /><br />
@@ -200,4 +205,7 @@
             </div>
         </div>
         <!-- End Featured Videos -->
+        <?php
+        include_once "footer.php";
+        ?>
 

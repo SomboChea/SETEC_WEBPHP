@@ -32,12 +32,12 @@
                 <div class="row">
                     <div class="col-md-4 col-xs-12 align centered">
                         <div class="box-logo">
-                            <img src="assets/images/logo.png" alt="" class="img-responsive">
+                            <img src="../assets/images/logo.png" alt="" class="img-responsive">
                         </div>
                     </div>
                     <div class="col-md-8 hidden-xs">
                         <div class="box-ads align centered">
-                            <img src="assets/images/ads_1.jpg" alt="" class="img-responsive">
+                            <img src="../assets/images/ads_1.jpg" alt="" class="img-responsive">
                         </div>
                     </div>
                 </div>

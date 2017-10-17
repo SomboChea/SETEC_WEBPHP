@@ -1,3 +1,9 @@
+ <?php
+ include_once "header.php";
+ include_once "menu.php";
+ ?>
+ 
+ 
  <!-- Contents -->
  <div class="container">
 
@@ -87,3 +93,8 @@
 
 
         <!-- End Featured -->
+
+        <?php 
+        include_once "categoryhome.php";
+        include_once "footer.php";
+        ?>
