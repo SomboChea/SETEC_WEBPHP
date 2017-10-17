@@ -4,7 +4,7 @@
                                             <a href="#">
                                                 <div class="row item-contain">
                                                     <div class="col-md-4 item-img">
-                                                        <figure><img src="img/6.jpg" alt="" class="img-responsive"></figure>
+                                                        <figure><img src="assets/img/6.jpg" alt="" class="img-responsive"></figure>
                                                     </div>
                                                     <div class="col-md-8 item-desc">
                                                         <p class="title">ឧបករណ៍ Gear 360 ជំនាន់​​ទី​១​​ចេញ​ហើយ​តម្លៃក្រោម ១៧០ ដុល្លារ​​</p>

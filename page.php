@@ -9,40 +9,32 @@
         $error_msg = "Not Found!";
     }
 
-    //header
+    //Header
     include_once "./views/header.php";
-    //menu
+    //Menu
     include_once "./views/menu.php";
-    //slideshow
-    include_once "./views/slidepagehome.php";
-    //home
-    include_once "./views/home1.php";
+    //Page
+    include_once "./views/listpage.php";
+    include_once "./views/categorypage.php";
 
-    include_once "./views/categoryhome.php";
-    
-    //START BODY
-    ?>
-    <!-- Contents -->
-    <div class="container">
 
-    <?php
+
     if(!isset($error_msg)) {
         include_once "views/".$view.".php";
     } else {
         //echo $error_msg;
-        include_once "./views/home1.php";
+        include_once "./views/categorypage.php";
     }
 
     
     //END BODY
 
-    ?>
-    <!-- Contents -->
-    </div>
-    
-    <?php
+
+
+
+
+
 
     //footer
     include_once "./views/footer.php";
 
-?>
