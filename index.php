@@ -17,8 +17,7 @@
     include_once "./views/slidepagehome.php";
     //home
     include_once "./views/home1.php";
-    include_once "./views/home2.php";
-  
+    
     //START BODY
     ?>
     <!-- Contents -->
@@ -29,7 +28,7 @@
         include_once "views/".$view.".php";
     } else {
         //echo $error_msg;
-        include_once "./views/home.php";
+        include_once "./views/home1.php";
     }
 
     
