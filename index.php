@@ -14,8 +14,9 @@
     //menu
     include_once "./views/menu.php";
     //slideshow
+    include_once "./views/slideshow.php";
     //home
-    include_once "./views/home.php";
+    
 
     //START BODY
 
@@ -23,10 +24,8 @@
         include_once "views/".$view.".php";
     } else {
         //echo $error_msg;
-        
+        include_once "./views/home.php";
     }
-
-    include_once "./views/slidebar.php";
 
     
     //END BODY

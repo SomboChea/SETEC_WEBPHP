@@ -1,6 +1,5 @@
  <!-- Contents -->
  <div class="container">
-
         <!-- Featured Slider-->
         <div class="row">
             <div class="col-md-12 sm-full-width">
@@ -84,6 +83,5 @@
                 </div>
             </div>
         </div>
-
-
         <!-- End Featured -->
+</div>
